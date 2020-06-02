@@ -1,1 +1,2 @@
 "# Covid-19-Space-app-Challenge" 
+We tried to make a simple well-defined user-friendly online platform which was accessible to everyone with an internet connection regardless of what device they use. Thus providing them with the opportunity to make the best out of it. For that, we incorporated socio-economic data, performed some data analysis and them visualised from the most unadorned user's perspective.We also plan to take our combined collaborative approach in building our project further in the near future.
