@@ -171,7 +171,8 @@ article#seemo img{
   height:60%;
 }
 
-@media(max-width:768px){
+@media (max-width:768px){
+
   header #branding,
   header nav,
   header nav li,
@@ -182,6 +183,7 @@ article#seemo img{
     text-align:center;
     width:100%;
   }
+  
   header{
     padding-bottom:20px;
   }
